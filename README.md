@@ -7,7 +7,7 @@ lost to the easiest chess bot on chess.com
 
 corrected a single mistake benjy made 
 
-got told i had good file structure by benjy
+got told i had a good naming system by benjy
 
 printed hello world successfully in 10+ languages 
 
