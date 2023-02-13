@@ -12,3 +12,7 @@ got told i had a good naming system by benjy
 printed hello world successfully in 10+ languages 
 
 i know the same word in 20+ languages
+
+### Contact Information
+
+[Discord](https://discord.com/users/798027635979845682)
