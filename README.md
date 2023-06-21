@@ -1,7 +1,7 @@
-#Box  
+# Box  
 
 i make some of the most shitposty, useless projects known to man  
-###Personal Achievements  
+### Personal Achievements  
 
 lost to the easiest chess bot on chess.com  
 
