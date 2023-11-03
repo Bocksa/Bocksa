@@ -20,4 +20,4 @@ i know the same word in 20+ languages
 
 ### Contact Information  
 
-[cian.mc](https://discord.com/users/798027635979845682)  
+Discord: [cian.mc](https://discord.com/users/798027635979845682)  
