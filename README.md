@@ -1,7 +1,14 @@
-### Contact Information  
+## Contact Information  
 
 Email: [cian@telecomeireann.ie](mailto:cian@telecomeireann.ie)  
 Discord: [cian.mc](https://discord.com/users/798027635979845682) 
+
+
+## Github Statistics
+
+### Total Visitors
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Bocksa}/count.svg" alt="Bocksa's Total Visitors" /></p>
 
 ### Profile Statistics
 
