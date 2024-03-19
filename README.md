@@ -5,4 +5,4 @@ Discord: [cian.mc](https://discord.com/users/798027635979845682)
 
 ### Language Usage
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bocksa)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bocksa&layout=compact)
