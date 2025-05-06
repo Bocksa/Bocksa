@@ -1,1 +1,1 @@
-i took the integer limit as a challenge and ~~lost~~ ~~won~~ lost.
+i took the integer limit as a challenge and ~~lost~~ ~~won~~ ~~lost~~ won.
